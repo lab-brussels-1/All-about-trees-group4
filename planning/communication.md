@@ -2,7 +2,7 @@
 
 ## Availability
 
-| Team Member | Day Availabality | Time Availability |
+| Team Member | Day Availability | Time Availability |
 | ----------- | :--------------: | ----------------: |
 | `HANEEFA`   | Monday to Friday |                   |
 | `KIISHI`    | Monday to Friday |                   |
