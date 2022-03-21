@@ -1,13 +1,19 @@
 {
   "language": "en",
+
   "words": [
+    "Availability",
+    "HANEEFA",
     "socio",
+    "CRISTOBAL",
+    "KIISHI",
     "cristobal",
     "Haneefa",
     "Shaik",
     "yeasung",
     "kiishiakande"
   ],
+
   "ignorePaths": [
     "node_modules/**",
     "package.json",
