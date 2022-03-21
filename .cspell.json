@@ -1,6 +1,13 @@
 {
   "language": "en",
-  "words": [],
+  "words": [
+    "socio",
+    "cristobal",
+    "Haneefa",
+    "Shaik",
+    "yeasung",
+    "kiishiakande"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
