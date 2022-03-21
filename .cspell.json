@@ -1,6 +1,17 @@
 {
   "language": "en",
-  "words": ["Availabality", "HANEEFA", "socio", "CRISTOBAL", "KIISHI"],
+<<<<<<< HEAD
+  "words": ["Availabality", 
+    "HANEEFA", "socio", "CRISTOBAL", 
+    "KIISHI",
+    "socio",
+    "cristobal",
+    "Haneefa",
+    "Shaik",
+    "yeasung",
+    "kiishiakande"]
+  ],
+>>>>>>> 601e3077910e58bee70eb9fb5cba5204a1698b0f
   "ignorePaths": [
     "node_modules/**",
     "package.json",
