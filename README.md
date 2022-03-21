@@ -10,10 +10,10 @@ practice our team work skills using the AGILE DEVELOPMENT methodology.
 
 The collaborators of this small project are:
 
-- @cristobal-lopez
-- @Haneefa-Shaik
-- @yeasung240
-- @kiishiakande
+- [Cristobal-Lopez](https://github.com/cristobal-lopez)
+- [Haneefa-Shaik](https://github.com/Haneefa-Shaik)
+- [yeasung240](https://github.com/yeasung240)
+- [@kiishiakande](https://github.com/kiishiakande)
 
 <!-- describe your project -->
 
