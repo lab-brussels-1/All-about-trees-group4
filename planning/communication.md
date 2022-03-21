@@ -7,7 +7,7 @@
 | `HANEEFA`   | Monday to Friday |                   |
 | `KIISHI`    | Monday to Friday |                   |
 | `CRISTOBAL` | Monday to Friday |       2 PM TO 9PM |
-| `YEA SUNG`  | Monday to Friday |                   |
+| `YEA SUNG`  | Monday to Friday |       7 PM TO 9PM |
 
 ## Communication tools
 
@@ -21,7 +21,7 @@
 - HANEEFA :
 - KIISHI :
 - CRISTOBAL : **_4 hours_**
-- YEA SUNG :
+- YEA SUNG : **_4 hours_**
 
 ## Daily meetup
 
