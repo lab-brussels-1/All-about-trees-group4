@@ -1,21 +1,19 @@
-# All About Trees
+# All About Trees 🌴
 
-Our first project is to rebuild the "All About Trees" website in a repository
-created by the members of this team.
+![trees-picture](photos/trees.png)
+
+Our first project is to rebuild the **"All About Trees"** website in a
+repository created by the members of this team.
 
 We are not going to focus on delivering a fancy HTML/CSS design but we will
 practice our team work skills using the AGILE DEVELOPMENT methodology.
-
-![trees-picture](https://www.creativefabrica.com/wp-content/uploads/2020/10/13/cute-kawaii-trees-Graphics-6049528-1-1-580x387.png)
 
 The collaborators of this small project are:
 
 - [Cristobal-Lopez](https://github.com/cristobal-lopez)
 - [Haneefa-Shaik](https://github.com/Haneefa-Shaik)
 - [yeasung240](https://github.com/yeasung240)
-- [@kiishiakande](https://github.com/kiishiakande)
-
-<!-- describe your project -->
+- [kiishiakande](https://github.com/kiishiakande)
 
 ## Getting Started
 

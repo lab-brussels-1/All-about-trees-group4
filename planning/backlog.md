@@ -10,19 +10,26 @@
 
 ## Should Haves
 
-> will complete the comic book fan experience, but are not necessary
+> The user will be able to view a gallery of tress in danger. The student's will
+> have access to a downloadable informative brochure.
 
 - **Home Page**
-  - As a comic book fan I can navigate the web page from a navbar
+  - As a user I can navigate the web page from a navbar
     - [ ] _there is a navbar at the top of the page with links to the different
           sections_
-  - As a comic book fan I can contact us to learn more about our project
+  - As an environmentalist, I can reach the creator using the "contact us"
+    information to learn more about the project.
     - [ ] _there is a footer with contact info_
 
 ## Could Haves
 
-> would be really cool ... if there's time
+> Would be really cool ... if there's time
 
 - **Home Page**
-  - as a comic book fan will smile (or roll their eyes) when they read our page
-    - [ ] _there are some silly animations_
+
+  - As a student, I can download a report of unique trees discovered in the
+    Amazonas.
+  - [ ] _there are some silly animations_
+
+  - As an user, I can view an animated gallery of unique trees.
+  - [ ] _there are some silly animations_
