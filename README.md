@@ -1,4 +1,4 @@
-# All About Trees :palm_tree:
+# All About Trees 🌴
 
 ![trees-picture](photos/trees.png)
 
