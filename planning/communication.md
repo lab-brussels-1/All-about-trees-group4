@@ -5,9 +5,9 @@
 | Team Member | Day Availability | Time Availability |
 | ----------- | :--------------: | ----------------: |
 | `HANEEFA`   | Monday to Friday |     12 PM TO 9 PM |
-| `KIISHI`    | Monday to Friday |      7 PM TO 9PM  |
-| `CRISTOBAL` | Monday to Friday |      2 PM TO 9PM  |
-| `YEA SUNG`  | Monday to Friday |      7 PM TO 9PM  |
+| `KIISHI`    | Monday to Friday |       7 PM TO 9PM |
+| `CRISTOBAL` | Monday to Friday |       2 PM TO 9PM |
+| `YEA SUNG`  | Monday to Friday |       7 PM TO 9PM |
 
 ## Communication tools
 
@@ -19,7 +19,7 @@
 ## Hours Spent for discussion per day
 
 - HANEEFA : **_4 hours_**
-- KIISHI :
+- KIISHI : **_4 hours_**
 - CRISTOBAL : **_4 hours_**
 - YEA SUNG : **_4 hours_**
 
