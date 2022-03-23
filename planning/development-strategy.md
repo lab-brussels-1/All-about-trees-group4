@@ -8,10 +8,10 @@ A simple little website about `trees`.
 
 ## Setup
 
-- [x] Boilerplate HTML file
-- [x] Page title in the HTML file
-- [x] empty CSS file
-- [x] CSS file is linked to HTML
+- [] Boilerplate HTML file
+- [] Page title in the HTML file
+- [] empty CSS file
+- [] CSS file is linked to HTML
 
 ---
 
@@ -27,7 +27,7 @@ The site needs a clear title that's easy to read at the top of the page.
 
 <!-- acceptance criteria -->
 
-- [x] there is a prominent title at the top of the web page
+- [] there is a prominent title at the top of the web page
 
 <!-- code you think you will need -->
 
@@ -47,7 +47,8 @@ The site needs a clear title that's easy to read at the top of the page.
 
 It should be clear about the importance of trees to the environment.
 
-- [x] there is a content explains why trees are important
+- [] there is information explaining the importance of greenery and planting
+  trees
 
 ### Content: HTML
 
@@ -65,7 +66,7 @@ It should be clear about the importance of trees to the environment.
 
 There should be images of trees.
 
-- [x] there are images of trees
+- [] there are images of trees
 
 ### Images: HTML
 
@@ -85,8 +86,8 @@ There should be images of trees.
 
 Some info about the creation of the website date and reserver right.
 
-- [x] there is info about the date which the website is created and reserved
-      right
+- [] there is info about the date which the website is created and reserved
+  right
 
 ### Footer: HTML
 
