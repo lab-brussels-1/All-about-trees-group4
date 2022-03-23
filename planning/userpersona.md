@@ -5,7 +5,7 @@
 ## Environmental activists
 
 - **Bio**: Cristobal is an environmental activist.
-- **Needs/Goals**: who wants to know about trees.
+- **Needs/Goals**: who wants to improve and protect the natural environment.
 - **Frustrations**: he does not have enough information about how to protect
   trees.
 - **Scenario 1**: he wants to give a conference about the importance of trees.
