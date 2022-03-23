@@ -7,4 +7,4 @@ Prettiness is not a priority for this project.
 
 ## Wireframe(s)
 
-![wireframe](./wireframe1.png)
+![wireframe](assets/wireframe1.png)
