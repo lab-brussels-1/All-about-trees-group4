@@ -98,3 +98,7 @@
 .footer-style a:hover {
   background-color: rgb(197, 98, 52);
 }
+
+.copyright {
+  text-align: center;
+}
