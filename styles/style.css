@@ -1,0 +1,100 @@
+* {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+}
+
+.Introduction {
+  color: rgb(14, 1, 6);
+}
+
+.Trees-benefits {
+  font-weight: bold;
+  color: rgb(51, 43, 43);
+}
+
+.aside-info {
+  width: 40%;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+  float: right;
+  box-shadow: inset 5px 0 5px -5px #29627e;
+  font-style: italic;
+}
+
+.aside-text {
+  font-family: monospace;
+}
+
+.bottom-divider {
+  border-style: none none solid none;
+}
+
+.spaced-items {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-around;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.centered-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.top-divider {
+  border-style: solid none none none;
+}
+
+/* https://www.developerdrive.com/8-simple-css-hover-effects/ */
+@keyframes bounce {
+  0%,
+  20%,
+  60%,
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+
+  40% {
+    -webkit-transform: translateY(-20px);
+    transform: translateY(-20px);
+  }
+
+  80% {
+    -webkit-transform: translateY(-10px);
+    transform: translateY(-10px);
+  }
+}
+
+.bouncy-img {
+  width: 5%;
+  height: 5%;
+}
+
+.bouncy-img:hover {
+  animation: bounce 1s;
+}
+
+.footer-style {
+  text-align: center;
+}
+
+.footer-style a {
+  text-decoration: none;
+  color: rgb(245, 237, 237);
+  background-color: rgb(52, 148, 22);
+  margin: 5px;
+}
+
+.footer-style a:visited {
+  background-color: rgb(185, 21, 21);
+}
+
+.footer-style a:hover {
+  background-color: rgb(197, 98, 52);
+}
