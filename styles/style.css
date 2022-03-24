@@ -84,12 +84,9 @@
 
 .footer-style {
   text-align: center;
-<<<<<<< HEAD
-  justify-content: space-around;
-=======
   border-top: 4px solid black;
   padding-top: 25px;
->>>>>>> 493eddb2cd0b6f4dc01ba1bfd76ca4480017f752
+  justify-content: space-around;
 }
 
 .footer-style a {
@@ -107,10 +104,6 @@
   background-color: rgb(197, 98, 52);
 }
 
-<<<<<<< HEAD
-.copyright {
-  text-align: center;
-=======
 .figure {
   display: block;
   margin-top: 1em;
@@ -121,5 +114,4 @@
 
 .figure1 {
   padding-right: 8px;
->>>>>>> 493eddb2cd0b6f4dc01ba1bfd76ca4480017f752
 }
