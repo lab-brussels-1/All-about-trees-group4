@@ -5,6 +5,8 @@
 
 .Introduction {
   color: rgb(14, 1, 6);
+  border-top: 4px solid black;
+  padding-top: 25px;
 }
 
 .Trees-benefits {
@@ -82,7 +84,12 @@
 
 .footer-style {
   text-align: center;
+<<<<<<< HEAD
   justify-content: space-around;
+=======
+  border-top: 4px solid black;
+  padding-top: 25px;
+>>>>>>> 493eddb2cd0b6f4dc01ba1bfd76ca4480017f752
 }
 
 .footer-style a {
@@ -100,6 +107,19 @@
   background-color: rgb(197, 98, 52);
 }
 
+<<<<<<< HEAD
 .copyright {
   text-align: center;
+=======
+.figure {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.figure1 {
+  padding-right: 8px;
+>>>>>>> 493eddb2cd0b6f4dc01ba1bfd76ca4480017f752
 }
