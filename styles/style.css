@@ -5,6 +5,8 @@
 
 .Introduction {
   color: rgb(14, 1, 6);
+  border-top: 4px solid black;
+  padding-top: 25px;
 }
 
 .Trees-benefits {
@@ -82,6 +84,8 @@
 
 .footer-style {
   text-align: center;
+  border-top: 4px solid black;
+  padding-top: 25px;
 }
 
 .footer-style a {
@@ -97,4 +101,16 @@
 
 .footer-style a:hover {
   background-color: rgb(197, 98, 52);
+}
+
+.figure {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.figure1 {
+  padding-right: 8px;
 }
