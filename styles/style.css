@@ -1,12 +1,15 @@
-.Introduction {
-  font-size: 22px;
+* {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  color: rgb(5, 109, 141);
+  font-size: 20px;
+}
+
+.Introduction {
+  color: rgb(14, 1, 6);
 }
 
 .Trees-benefits {
-  font-weight: lighter;
-  color: rgb(226, 230, 18);
+  font-weight: bold;
+  color: rgb(51, 43, 43);
 }
 
 .aside-info {
@@ -75,4 +78,23 @@
 
 .bouncy-img:hover {
   animation: bounce 1s;
+}
+
+.footer-style {
+  text-align: center;
+}
+
+.footer-style a {
+  text-decoration: none;
+  color: rgb(245, 237, 237);
+  background-color: rgb(52, 148, 22);
+  margin: 5px;
+}
+
+.footer-style a:visited {
+  background-color: rgb(185, 21, 21);
+}
+
+.footer-style a:hover {
+  background-color: rgb(197, 98, 52);
 }
