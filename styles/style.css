@@ -82,6 +82,7 @@
 
 .footer-style {
   text-align: center;
+  justify-content: space-around;
 }
 
 .footer-style a {
