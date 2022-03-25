@@ -129,17 +129,3 @@
 .Navigation {
   text-align: center;
 }
-
-.Navigation a {
-  text-align: center;
-  text-decoration: none;
-  margin: 20px;
-  padding: 5px;
-  background-color: #e4c411;
-  border-radius: 10px;
-}
-
-.Navigation a:hover {
-  background-color: #e65705;
-  font-size: 20.1px;
-}
