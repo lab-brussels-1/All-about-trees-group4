@@ -28,6 +28,7 @@
   font-family: monospace;
 }
 
+/* this code shows the horizontal line */
 .bottom-divider {
   border-style: none none solid none;
 }
@@ -49,6 +50,7 @@
   padding-bottom: 2%;
 }
 
+/* this code shows the horizontal line */
 .top-divider {
   border-style: solid none none none;
 }
@@ -113,6 +115,7 @@
   border-radius: 7px;
 }
 
+/* this code shows styling for the images */
 .figure {
   display: block;
   margin-top: 1em;
