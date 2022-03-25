@@ -1,7 +1,7 @@
 * {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
-  background: #4db87a;
+  background: #cbe3d5;
 }
 
 .Introduction {
@@ -128,7 +128,7 @@
 .Header {
   text-align: center;
   color: rgb(249, 250, 255);
-  background-color: rgb(65, 76, 194);
+  background-color: rgb(129, 187, 108);
   padding: 10px;
   font-size: 45px;
   text-transform: uppercase;
