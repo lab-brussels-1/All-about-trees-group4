@@ -27,8 +27,14 @@
 
 ### What parts of your plan went as expected?
 
+- planning went well as expected.
+
 ### What parts of your plan did not work out?
 
-### Did you need to add things that weren't in your strategy?
+- Communication is really important for collaboration.
+- coding part went slow due to to the lack of communication.
+- Individuals have to stick at least to their communication plan.
 
-### Or remove extra steps?
+### Did you need to add things that weren't in your strategy? Or remove extra steps?
+
+- As of now everything is fine and good.
