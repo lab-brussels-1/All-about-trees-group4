@@ -99,6 +99,15 @@
   padding: 7px;
 }
 
+.Navigation a {
+  text-decoration: none;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: #153f22;
+  color: rgb(241, 220, 31);
+}
+
 .footer-style a:hover {
   background-color: rgb(197, 98, 52);
   border-radius: 7px;
@@ -121,7 +130,7 @@
   color: rgb(249, 250, 255);
   background-color: rgb(65, 76, 194);
   padding: 10px;
-  font-size: 35px;
+  font-size: 45px;
   text-transform: uppercase;
   border-radius: 15px;
 }
