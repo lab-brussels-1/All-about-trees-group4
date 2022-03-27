@@ -8,10 +8,10 @@ A simple little website about `trees`.
 
 ## Setup
 
-- [] Boilerplate HTML file
-- [] Page title in the HTML file
-- [] empty CSS file
-- [] CSS file is linked to HTML
+- [x] Boilerplate HTML file
+- [x] Page title in the HTML file
+- [x] empty CSS file
+- [x] CSS file is linked to HTML
 
 ---
 
