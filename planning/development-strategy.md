@@ -1,4 +1,4 @@
-# All about trees
+# Development strategy
 
 > only `must have` user stories need to be in the development strategy
 
